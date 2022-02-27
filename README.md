@@ -1,4 +1,4 @@
-# love-isodraw
+# [love] Lib : isodraw
 (love) lib isodraw : (discontinued 2021) Unfinished library, allowing to manage mathematical operations to create an isometric world on love.
 
 I don't now if it work, don't contact me to fix bugs. It's old, abandoned, and poorly coded. 
